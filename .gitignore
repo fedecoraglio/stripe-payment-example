@@ -1,0 +1,198 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+frontend/dist
+frontend/tmp
+frontend/out-tsc
+# Only exists if Bazel was run
+frontend/bazel-out
+
+# dependencies
+frontend/node_modules
+
+# profiling files
+frontend/chrome-profiler-events*.json
+
+# IDEs and editors
+frontend/.idea
+frontend/.project
+frontend/.classpath
+frontend/.c9/
+frontend/*.launch
+frontend/.settings/
+frontend/*.sublime-workspace
+
+# IDE - VSCode
+frontend/.vscode/*
+frontend/!.vscode/settings.json
+frontend/!.vscode/tasks.json
+frontend/!.vscode/launch.json
+frontend/!.vscode/extensions.json
+frontend/.history/*
+
+# misc
+frontend/.angular/cache
+frontend/.sass-cache
+frontend/connect.lock
+frontend/coverage
+frontend/libpeerconnection.log
+frontend/npm-debug.log
+frontend/yarn-error.log
+frontend/testem.log
+frontend/typings
+
+# System Files
+frontend/.DS_Store
+frontend/Thumbs.db
+
+# compiled output
+backend/dist
+backend/node_modules
+backend/.env
+
+# Logs
+backend/logs
+backend/*.log
+backend/npm-debug.log*
+backend/pnpm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/lerna-debug.log*
+
+# OS
+backend/.DS_Store
+
+# Tests
+backend/coverage
+backend/.nyc_output
+
+# IDEs and editors
+backend/.idea
+backend/.project
+backend/.classpath
+backend/.c9/
+backend/*.launch
+backend/.settings/
+backend/*.sublime-workspace
+
+# IDE - VSCode
+backend/.vscode/*
+backend/!.vscode/settings.json
+backend/!.vscode/tasks.json
+backend/!.vscode/launch.json
+backend/!.vscode/extensions.json
+
+
+# compiled output
+backend/dist
+backend/node_modules
+backend/.env
+
+# Logs
+backend/logs
+backend/*.log
+backend/npm-debug.log*
+backend/pnpm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/lerna-debug.log*
+
+# OS
+frontend/.DS_Store
+
+frontend/.angular/*
+
+# Tests
+frontend/coverage
+frontend/.nyc_output
+
+# IDEs and editors
+frontend/.idea
+frontend/.project
+frontend/.classpath
+frontend/.c9/
+frontend/*.launch
+frontend/.settings/
+frontend/*.sublime-workspace
+
+# IDE - VSCode
+frontend/.vscode/*
+frontend/!.vscode/settings.json
+frontend/!.vscode/tasks.json
+frontend/!.vscode/launch.json
+frontend/!.vscode/extensions.json
+
+# compiled output
+frontend/dist
+frontend/node_modules
+frontend/.env
+
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/pnpm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/lerna-debug.log*
+
+# OS
+frontend/.DS_Store
+
+# Tests
+frontend/coverage
+frontend/.nyc_output
+
+# IDEs and editors
+frontend/.idea
+frontend/.project
+frontend/.classpath
+frontend/.c9/
+frontend/*.launch
+frontend/.settings/
+frontend/*.sublime-workspace
+
+# IDE - VSCode
+frontend/.vscode/*
+frontend/!.vscode/settings.json
+frontend/!.vscode/tasks.json
+frontend/!.vscode/launch.json
+frontend/!.vscode/extensions.json
+
+
+# compiled output
+frontend/dist
+frontend/node_modules
+frontend/.env
+
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/pnpm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/lerna-debug.log*
+
+# OS
+frontend/.DS_Store
+
+# Tests
+frontend/coverage
+frontend/.nyc_output
+
+# IDEs and editors
+frontend/.idea
+frontend/.project
+frontend/.classpath
+frontend/.c9/
+frontend/*.launch
+frontend/.settings/
+frontend/*.sublime-workspace
+
+# IDE - VSCode
+frontend/.vscode/*
+frontend/!.vscode/settings.json
+frontend/!.vscode/tasks.json
+frontend/!.vscode/launch.json
+frontend/!.vscode/extensions.json
